@@ -1,10 +1,10 @@
 {
   "name": "@my/nestjs-auth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "scripts": {  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/halimonalexander/test-multirepo.git",
