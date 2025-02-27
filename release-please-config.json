@@ -6,10 +6,12 @@
   "separate-pull-requests": true,
   "packages": {
     "packages/api": {
-      "package-name": "@my/nestjs-api"
+      "package-name": "@my/nestjs-api",
+      "path": "packages/api"
     },
     "packages/auth": {
-      "package-name": "@my/nestjs-auth"
+      "package-name": "@my/nestjs-auth",
+      "path": "packages/auth"
     },
     ".": {
       "changelog-path": "CHANGELOG.md",
