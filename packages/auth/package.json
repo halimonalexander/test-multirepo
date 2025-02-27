@@ -8,7 +8,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/halimonalexander/test-multirepo.git",
-    "directory": "packages/api"
+    "directory": "packages/auth"
   },
   "files": [
     "dist",
