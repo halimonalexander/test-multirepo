@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/halimonalexander/test-multirepo/compare/v1.2.0...v1.2.1) (2025-02-27)
+
+
+### Bug Fixes
+
+* **api:** add us ([9d324d8](https://github.com/halimonalexander/test-multirepo/commit/9d324d82e280990a36a55fa0fad9272a1e0cf15b))
+* **auth:** add not ([76edbf6](https://github.com/halimonalexander/test-multirepo/commit/76edbf61363e8ec30046a5849a19a08a7cb1de1e))
+
 ## [1.2.0](https://github.com/halimonalexander/test-multirepo/compare/v1.1.0...v1.2.0) (2025-02-27)
 
 
