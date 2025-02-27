@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/halimonalexander/test-multirepo/compare/v1.2.1...v1.3.0) (2025-02-27)
+
+
+### Features
+
+* **api:** add dog ([a904433](https://github.com/halimonalexander/test-multirepo/commit/a90443382c378a6c86e9a60109ac48877aa59bf9))
+
+
+### Bug Fixes
+
+* **auth:** add cat ([055222e](https://github.com/halimonalexander/test-multirepo/commit/055222ed553d687950bf185bdc5056b8a54f40c0))
+
 ## [1.2.1](https://github.com/halimonalexander/test-multirepo/compare/v1.2.0...v1.2.1) (2025-02-27)
 
 
