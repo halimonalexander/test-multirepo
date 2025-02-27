@@ -1,19 +1,18 @@
 {
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "plugins": ["node-workspace"],
-  "include-v-in-tag": false,
+  "release-type": "node",
+  "separate-pull-requests": true,
+  "include-v-in-tag": true,
   "include-component-in-tag": false,
-  "separate-pull-requests": false,
   "packages": {
-    "@my/nestjs-api": {
+    "packages/api": {
       "package-name": "@my/nestjs-api",
-      "path": "packages/api",
-      "release-type": "node"
+      "path": "packages/api"
     },
-    "@my/nestjs-auth": {
+    "packages/auth": {
       "package-name": "@my/nestjs-auth",
-      "path": "packages/auth",
-      "release-type": "node"
+      "path": "packages/auth"
     }
-  },
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+  }
 }
