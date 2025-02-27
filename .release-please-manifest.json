@@ -1,5 +1,4 @@
 {
   "@my/nestjs-api": "0.0.0",
-  "@my/nestjs-auth": "0.0.0",
-  ".": "0.0.1"
+  "@my/nestjs-auth": "0.0.0"
 }
