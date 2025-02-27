@@ -1,0 +1,20 @@
+{
+  "name": "@my/nestjs-core",
+  "private": true,
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halimonalexander/test-multirepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "dependencies": {}
+}
