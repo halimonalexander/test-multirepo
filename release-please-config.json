@@ -7,18 +7,13 @@
   "packages": {
     "packages/api": {
       "package-name": "@my/nestjs-api",
-      "path": "packages/api"
+      "path": "packages/api",
+      "release-type": "node"
     },
     "packages/auth": {
       "package-name": "@my/nestjs-auth",
-      "path": "packages/auth"
-    },
-    ".": {
-      "changelog-path": "CHANGELOG.md",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false,
-      "draft": false,
-      "prerelease": false
+      "path": "packages/auth",
+      "release-type": "node"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
