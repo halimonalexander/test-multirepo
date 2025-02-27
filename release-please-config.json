@@ -10,11 +10,19 @@
   "packages": {
     "packages/api": {
       "package-name": "@my/nestjs-api",
-      "path": "packages/api"
+      "path": "packages/api",
+      "release-type": "node",
+      "component": "api",
+      "changelog-path": "packages/api/CHANGELOG.md",
+      "extra-files": ["packages/api/package.json"]
     },
     "packages/auth": {
       "package-name": "@my/nestjs-auth",
-      "path": "packages/auth"
+      "path": "packages/auth",
+      "release-type": "node",
+      "component": "auth",
+      "changelog-path": "packages/auth/CHANGELOG.md",
+      "extra-files": ["packages/auth/package.json"]
     },
     ".": {
       "changelog-path": "CHANGELOG.md",
