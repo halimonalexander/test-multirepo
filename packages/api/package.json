@@ -1,23 +1,10 @@
 {
   "name": "@my/nestjs-api",
   "version": "1.1.0",
-  "description": "",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {},
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/halimonalexander/test-multirepo.git",
     "directory": "packages/api"
-  },
-  "files": [
-    "dist",
-    "!dist/*.tsbuildinfo"
-  ],
-  "keywords": [],
-  "author": "",
-  "license": "UNLICENSED",
-  "dependencies": {},
-  "devDependencies": {},
-  "peerDependencies": {}
+  }
 }
