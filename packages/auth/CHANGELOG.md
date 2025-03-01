@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/halimonalexander/test-multirepo/compare/v1.1.1...v1.1.2) (2025-03-01)
+
+
+### Bug Fixes
+
+* add rat ([e7b9f1e](https://github.com/halimonalexander/test-multirepo/commit/e7b9f1ed2442cb78005f880ca881c4099276871e))
+
 ## [1.1.1](https://github.com/halimonalexander/test-multirepo/compare/v1.1.0...v1.1.1) (2025-03-01)
 
 
