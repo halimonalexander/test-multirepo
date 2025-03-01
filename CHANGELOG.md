@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/halimonalexander/test-multirepo/compare/v1.3.0...v1.4.0) (2025-03-01)
+
+
+### Features
+
+* **api:** rat ([7991f72](https://github.com/halimonalexander/test-multirepo/commit/7991f7220d73d78df56ebdc70aabbbefbe9c9bd1))
+
 ## [1.3.0](https://github.com/halimonalexander/test-multirepo/compare/v1.2.1...v1.3.0) (2025-02-27)
 
 
