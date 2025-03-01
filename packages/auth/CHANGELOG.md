@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/halimonalexander/test-multirepo/compare/v1.1.0...v1.1.1) (2025-03-01)
+
+
+### Bug Fixes
+
+* **auth:** add cat ([055222e](https://github.com/halimonalexander/test-multirepo/commit/055222ed553d687950bf185bdc5056b8a54f40c0))
+* **auth:** add not ([76edbf6](https://github.com/halimonalexander/test-multirepo/commit/76edbf61363e8ec30046a5849a19a08a7cb1de1e))
+
 ## 1.0.0 (2025-02-27)
 
 
