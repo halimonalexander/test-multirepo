@@ -5,12 +5,10 @@
   "include-component-in-tag": false,
   "packages": {
     "packages/api": {
-      "package-name": "@my/nestjs-api",
-      "component": "api"
+      "package-name": "@my/nestjs-api"
     },
     "packages/auth": {
-      "package-name": "@my/nestjs-auth",
-      "component": "auth"
+      "package-name": "@my/nestjs-auth"
     }
   }
 }
