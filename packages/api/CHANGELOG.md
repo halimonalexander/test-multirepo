@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/halimonalexander/test-multirepo/compare/v1.8.0...v1.9.0) (2025-03-01)
+
+
+### Features
+
+* add test ([ffb1bd4](https://github.com/halimonalexander/test-multirepo/commit/ffb1bd4789c2c877062a9edb1c1d262dc2b1eb80))
+
 ## [1.8.0](https://github.com/halimonalexander/test-multirepo/compare/v1.7.0...v1.8.0) (2025-03-01)
 
 
