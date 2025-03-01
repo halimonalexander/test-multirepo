@@ -6,7 +6,7 @@
   "release-type": "node",
   "separate-pull-requests": true,
   "include-v-in-tag": false,
-  "include-component-in-tag": false,
+  "include-component-in-tag": true,
   "packages": {
     "packages/api": {
       "package-name": "@my/nestjs-api",
