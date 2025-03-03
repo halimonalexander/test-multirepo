@@ -4,3 +4,4 @@ let we  = 3;
 let not = 4;
 let cat = 5;
 let rat = 6;
+let one = 7;
