@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/halimonalexander/test-multirepo/compare/auth@v1.3.1...auth@v1.3.2) (2025-03-03)
+
+
+### Bug Fixes
+
+* add new const ([6dc027b](https://github.com/halimonalexander/test-multirepo/commit/6dc027b899f4f82aaea71d06b8fe4a3bd56a32d9))
+
 ## [1.3.1](https://github.com/halimonalexander/test-multirepo/compare/auth@v1.3.0...auth@v1.3.1) (2025-03-03)
 
 
