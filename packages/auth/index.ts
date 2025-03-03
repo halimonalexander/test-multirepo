@@ -5,3 +5,4 @@ let not = 4;
 let cat = 5;
 let rat = 6;
 let one = 7;
+let two = 8;

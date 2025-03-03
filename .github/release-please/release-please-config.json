@@ -3,12 +3,15 @@
   "separate-pull-requests": false,
   "include-v-in-tag": true,
   "include-component-in-tag": true,
+  "tag-separator": "@",
   "packages": {
     "packages/api": {
-      "package-name": "@my/nestjs-api"
+      "package-name": "@my/nestjs-api",
+      "component": "api"
     },
     "packages/auth": {
-      "package-name": "@my/nestjs-auth"
+      "package-name": "@my/nestjs-auth",
+      "component": "auth"
     }
   }
 }
