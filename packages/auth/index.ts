@@ -7,3 +7,4 @@ let rat = 6;
 let one = 7;
 let two = 8;
 let three = 9;
+let seven = 10;
