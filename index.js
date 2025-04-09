@@ -14,5 +14,6 @@ console.log(
     url.pathname,
     url.hash,
     --
+    --
 );
 
